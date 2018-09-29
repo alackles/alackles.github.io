@@ -30,7 +30,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Acacia Ackles
-blog_description: personal academic website
+blog_description: Academia!
 
 # Pagination
 paginate: 4
