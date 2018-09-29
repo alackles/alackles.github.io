@@ -91,7 +91,7 @@ scholar:
 
   last_name: Ackles
 
-  style: chicag-author-date
+  style: chicago-author-date
   locale: en
 
   sort_by: year
