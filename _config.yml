@@ -26,6 +26,7 @@ contact_note: >
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
@@ -91,7 +92,7 @@ scholar:
 
   last_name: Ackles
 
-  style: chicago-author-date
+  style: chicago-fullnote-bibliography
   locale: en
 
   sort_by: year
