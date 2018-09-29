@@ -49,6 +49,8 @@ description: Projects past, present, and future.
 
 {% endfor %}
 
+<br>
+
 ## Past Projects
 
 {% for project in site.projects-past %}
