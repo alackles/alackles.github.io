@@ -62,9 +62,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  projects_past:
+  projects-past:
     output: true
-    permalink: /projects-past/:path/
+    permalink: /projects/:path/
 news_limit: 5
 
 # -----------------------------------------------------------------------------
