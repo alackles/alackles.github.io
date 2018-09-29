@@ -2,9 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I'm passionate about pedagogy in higher education, especially improving classroom equity. I most enjoy teaching and TAing in interdisciplinary active learning courses.
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Undergraduate TA Experience [George Washington University]
 
-Organize your courses by years, topics, or universities, however you like!
+### Biology
+ * Introductory Biology (Cells and Molecules) Lab [Fall 2015, Fall 2016]
+ * Genetics Lab [Spring 2018]
+
+### Physics
+ * University Physics II (Electricity and Magnetism) [Fall 2016]
+ * University Physics I & II with Biological Applications [Spring 2017, Fall 2017]
+
+### Pedagogy
+ * Pedagogy for Learning Assistants [Fall 2017, Spring 2018]
