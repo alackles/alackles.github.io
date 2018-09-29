@@ -5,6 +5,8 @@ permalink: /projects/
 description: Projects past, present, and future.  
 ---
 
+## Current Projects
+
 {% for project in site.projects %}
 
 {% if project.redirect %}
@@ -46,6 +48,8 @@ description: Projects past, present, and future.
 {% endif %}
 
 {% endfor %}
+
+## Past Projects
 
 {% for project in site.projects-past %}
 
