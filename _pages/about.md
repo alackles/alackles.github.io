@@ -12,7 +12,7 @@ profile:
     <p>288 Farm Ln, Rm 203</p>
     <p>Lansing, MI 48823</p>
 
-news: true
+news: false
 social: true
 ---
 

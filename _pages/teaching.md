@@ -5,7 +5,7 @@ title: teaching
 description: I'm passionate about pedagogy in higher education, especially improving classroom equity. I most enjoy teaching and TAing in interdisciplinary active learning courses.
 ---
 
-### Undergraduate TA Experience [George Washington University]
+### Undergraduate TA [George Washington University]
 
 #### Biology
  * **Introductory Biology (Cells and Molecules) Lab** [Fall 2015, Fall 2016]
