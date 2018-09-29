@@ -9,14 +9,14 @@
     .thumbnail {
         overflow: hidden;
         height: 200px;
-        width: 100%;
+        width: 200px;
 
         img {
-            height: auto;
-            position: relative;
-                left: -10%;
-                top: -5%;
-            width: 350px;
+            height: 200px;
+            position: absolute;
+                left: 0px;
+                top: 0px;
+            width: 200px;
         }
 
         a {
