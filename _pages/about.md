@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-<a href="{{ site.baseurl }}/pdfs/cv.pdf">Download CV</a>
+<a href="{{ site.baseurl }}/assets/pdfs/cv.pdf">Download CV</a>
 
 #### About Me
 I'm a first year PhD student in Integrative Biology and Ecology, Evolution, and Behavioral Biology at MSU. My interests are at the intersection of evolutionary biology, computer science, and applied mathematics.  
