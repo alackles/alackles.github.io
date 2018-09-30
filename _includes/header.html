@@ -24,19 +24,23 @@
       <div class="trigger">
         <!-- About -->
         <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
+        
+        <!-- CV link -->
+        <a class="page-link" href="{{ '/assets/pdfs/cv.pdf' | prepend: site.baseurl | prepend: site.url }}">cv</a>
 
         <!-- Blog -->
-        <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
+        <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a> -->
 
         <!-- Pages -->
         {% for page in site.pages %}
-          {% if page.title and page.url != "/" %}
+          {% if page.title and page.url != "/" and page.url != "/etc/" %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        
+        <!-- Etc. -->
+        <a class="page-link" href="{{ '/etc/' | prepend: site.baseurl | prepend: site.url }}">etc</a>
 
-        <!-- CV link -->
-        <!-- <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae</a> -->
 
       </div>
     </nav>
