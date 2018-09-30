@@ -20,4 +20,13 @@ I'm a first year PhD student in <a href="https://integrativebiology.natsci.msu.e
 
 I'm broadly interested in the evolution of genomes and the origins of evolutionary novelty. I'm also interested in higher ed pedagogy and developing interdisciplinary undergraduate courses.
 
+#### Affiliations
+ * [Hintze Lab][hintze]
+ * [BEACON Center][beacon]
+ * [MSU Department of Integrative Biology][ibio]
+ * [MSU Ecology, Evolutionary Biology, and Behavior Program][eebb]
 
+[hintze]: http://hintzelab.msu.edu/
+[beacon]: http://beacon-center.org/
+[ibio]: https://integrativebiology.natsci.msu.edu
+[eebb]: http://eebb.msu.edu/
