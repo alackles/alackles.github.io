@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Acacia</strong> Ackles
-description: PhD Student in the <a href="http://hintzelab.msu.edu/" style="color:$dark-green">Hintze Lab</a> at Michigan State University.
+description: PhD Student in the <a href="http://hintzelab.msu.edu/" style="color:$dark-green">Hintze Lab</a> at Michigan State University | Pronouns: she/her
 
 profile:
   align: right
