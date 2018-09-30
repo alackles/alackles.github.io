@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Acacia</strong> Ackles
-description: PhD Student in the <a href="http://hintzelab.msu.edu/" style="color:$dark-green">Hintze Lab</a> at Michigan State University | Pronouns: she/her
+description: PhD Student in the <a href="http://hintzelab.msu.edu/" style="color:$dark-green">Hintze Lab</a> at Michigan State University | she/her
 
 profile:
   align: right
@@ -20,5 +20,4 @@ I'm a first year PhD student in <a href="https://integrativebiology.natsci.msu.e
 
 I'm broadly interested in the evolution of genomes and the origins of evolutionary novelty. I'm also interested in higher ed pedagogy and developing interdisciplinary undergraduate courses.
 
-Website in progress.
 

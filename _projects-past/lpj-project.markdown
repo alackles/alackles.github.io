@@ -11,4 +11,4 @@ The order Cypriniformes consists of over 3,000 species and makes up over one-ten
 
 We focused on the ontogeny and morphology of the cypriniform lower pharyngeal jaw across families. We developed a morphospace for cypriniform lower pharyngeal jaws using geometric morphometric techniques and found a wide range of jaw shapes performing similar morphological functions.  
 
-For more information, see the relevant <a href={site.baseurl}/publications/>publications</a>.  
+For more information, see the relevant <a href="{site.url}/publications/">publications</a>.  
