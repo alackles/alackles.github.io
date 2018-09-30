@@ -2,7 +2,7 @@
 layout: page
 title: ...
 description: 
-img:
+img: /assets/img/etc-project.jpg
 ---
 
 Things that haven't made it to full projecthood yet.

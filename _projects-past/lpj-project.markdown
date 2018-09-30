@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Cypriniform Pharyngeal Jaws
-description: Hypertrophy and Morphospace Occupation
-img: 
+description:
+img: /assets/img/lpj-project.jpeg 
 ---
 
 Work done at the Hernandez Lab. 
