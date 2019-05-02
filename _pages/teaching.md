@@ -17,6 +17,7 @@ I'm passionate about pedagogy in higher education, especially improving classroo
 #### <a name="expr">Teaching Experience</a>
 
 **Human Biology Capstone**, Graduate TA (Fall 2019)
+
 Upcoming course. Intended for Seniors in the Human Biology major, primarily pre-medical students. Responsibilites will include facilitating group discussion and providing feedback on written work.
 
 #### <a name="evals">Teaching Evaluations</a>
@@ -26,12 +27,15 @@ Coming soon!
 #### <a name="profdev">Professional Development</a>
 
 **Teaching College Science**: Professional Coursework
+
 Course taken as part of the Certificate in Teaching College Science and Mathematics at Michigan State University. Course experiences included development of syllabi and lesson plans using pedagogical techniques such as constructivism and transfer-based learning. 
 
 **Teaching Workshop**: GWU Teaching Days
+
 Title: *How to Improve In-class Activities with Undergraduate Learning Assistants* Co-organizer and I were the only undergraduate presenters at this faculty-centered workshop
 
 **Course Development**: Pedagogy for Learning Assistants (George Washington University)
+
 Assisted lead instructor Dr. Tiffany-Rose Sikorski in developing course structure and final project design for class to train all undergraduate learning assistants in STEM at GWU
 
 <!-- Links -->
