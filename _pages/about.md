@@ -21,12 +21,14 @@ I'm a second year PhD student in <a href="https://integrativebiology.natsci.msu.
 I'm broadly interested in the evolution of genomes and the origins of evolutionary novelty. I'm also interested in higher ed pedagogy and developing interdisciplinary undergraduate courses.
 
 #### Affiliations
- * [Hintze Lab][hintze]
+ * [Dolson Lab][dolson]
+ * [Zipkin Lab][zipkin]
  * [BEACON Center][beacon]
  * [MSU Department of Integrative Biology][ibio]
  * [MSU Ecology, Evolutionary Biology, and Behavior Program][eebb]
 
-[hintze]: http://hintzelab.msu.edu/
+[dolson]: http://cse.msu.edu/~dolsonem/
+[zipkin]: https://ezipkin.github.io/
 [beacon]: http://beacon-center.org/
 [ibio]: https://integrativebiology.natsci.msu.edu
 [eebb]: http://eebb.msu.edu/
