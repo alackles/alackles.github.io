@@ -16,9 +16,9 @@ I'm passionate about pedagogy in higher education, especially improving classroo
 
 #### <a name="expr">Teaching Experience</a>
 
-**Human Biology Capstone**, Graduate TA (Fall 2019)
+**Human Biology Capstone**, Graduate TA (Fall 2019, Spring 2020)
 
-Upcoming course. Intended for Seniors in the Human Biology major, primarily pre-medical students. Responsibilites will include facilitating group discussion and providing feedback on written work.
+Intended for Seniors in the Human Biology major, primarily pre-medical students. Responsiblities included giving extensive feedback on writing and suggesting supplementary material for courses. 
 
 #### <a name="evals">Teaching Evaluations</a>
 
