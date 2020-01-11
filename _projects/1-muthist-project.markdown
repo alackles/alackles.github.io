@@ -13,4 +13,4 @@ We use the MABE digital evolution framework to answer questions about mutational
 * How do fixation rates relate to mutation rates? 
 * etc. 
 
-This is ongoing work; our preliminary results will (pending acceptance!) be presented at the ALIFE 2019 conference in Newcastle, UK.
+This is ongoing work. 
