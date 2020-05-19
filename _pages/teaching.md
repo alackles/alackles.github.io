@@ -2,8 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I've been involved with so far
 ---
+
+My ultimate goal is to teach introductory biology, mathematics, and computer science courses---and for those all to be the same course.
 
 #### Jump To
 * [Teaching Statement](#statement)
