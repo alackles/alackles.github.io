@@ -8,9 +8,9 @@ title: cv
 
 ## Education
 
-**PhD**: Dual PhD in Integrative Biology & Ecology, Evolutionary Biology, and Behavior\
-*Fall 2018 -- current*\
-Michigan State University, East Lansing, MI\
+**PhD**: Dual PhD in Integrative Biology & Ecology, Evolutionary Biology, and Behavior  
+*Fall 2018 -- current*  
+Michigan State University, East Lansing, MI  
 Advisors: Emily Dolson & Elise Zipkin
 
 **Certificate in Teaching College Science & Mathematics**\
@@ -53,7 +53,7 @@ Designed and taught eight modules on basics of the R language, including variabl
 
 ### Graduate Teaching Assistant
 
-**Human Biology Capstone** (Fall 2019, Spring 2020)\
+**Human Biology Capstone** (Fall 2019, Spring 2020)  
 Facilitated discussion and gave extensive feedback on writing assignments for 50 students each semester in their senior capstone course. Writing topics for students included academic book reviews and mock grant proposals. Assisted in lesson design including suggestions for assigned readings and supplementary work.
 
 ### Other Teaching Development
