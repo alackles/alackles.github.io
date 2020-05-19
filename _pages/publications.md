@@ -9,9 +9,9 @@ Due to the interdisciplinary nature of the work I do, I publish across a variety
 
 #### Publication Format
 <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fas fa-pen-fancy"></i></span> Published in a peer-reviewed academic journal. Stay tuned for some of these to show up ;) </li>
+    <li><span class="fa-li"><i class="fas fa-pen"></i></span> Published in a peer-reviewed academic journal. Stay tuned for some of these to show up ;) </li>
     <li><span class="fa-li"><i class="fas fa-desktop"></i></span> Published in a conference proceedings. These are full papers submitted to conferences which undergo a peer review process. In computer science, it is common for results to reach their final destination in these proceedings.</li>
-</ul
+</ul>
 
 ## Peer-Reviewed Publications
 
