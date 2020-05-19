@@ -8,8 +8,8 @@ description:
 Due to the interdisciplinary nature of the work I do, I publish across a variety of fields with different norms, expectations, and conventions. For transparency, I am organizing my publications list with some additional notation to guide the reader. Inspiration for this format comes directly from my advisor [Emily Dolson][dolson]. 
 
 #### Publication Format
-<ul class="fa-ul">
-    <li><span class="fa-li"><i class="fas fa-desktop"></i></span> Published in a peer-reviewed academic journal. Stay tuned for some of these to show up ;) </li>
+<ul class="fa-ul" style="line-height:110%>
+    <li><span class="fa-li"><i class="fas fa-pencil-alt"></i></span> Published in a peer-reviewed academic journal. Stay tuned for some of these to show up ;) </li>
     <li><span class="fa-li"><i class="fas fa-desktop"></i></span> Published in a conference proceedings. These are full papers submitted to conferences which undergo a peer review process. In computer science, it is common for results to reach their final destination in these proceedings.</li>
 </ul>
 
