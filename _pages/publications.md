@@ -36,7 +36,7 @@ Due to the interdisciplinary nature of the work I do, I publish across a variety
 
 ## Posters & Presentations
 
-*To avoid multiple duplicate entires, presentations listed here are only those which do not have an associated conference proceeding. This means they tended to be submitted to the conference as short (<500 word) abstracts and had an accompanying presentation or poster. 
+*To avoid multiple duplicate entires, presentations listed here are only those which do not have an associated conference proceeding. This means they tended to be submitted to the conference as short (<500 word) abstracts and had an accompanying presentation or poster.* 
 
 Cohen, Karly E., **Acacia  L.  Ackles**, & L. Patricia Hernandez (2019). Origin, heterochrony, and diversification of otocephalan epibranchial organs. Poster at Society for Integrative and Comparative Biology Annual Meeting 2018, January 3-7, Tampa, FL.
 
