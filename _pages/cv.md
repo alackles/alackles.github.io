@@ -6,6 +6,8 @@ title: cv
 
 <a class="page-link" href="{{ '/assets/pdfs/cv.pdf' | prepend: site.baseurl | prepend: site.url }}">Open as a PDF</a>
 
+(Or, for a bit of a twist on the academic norms, see my <a class="page-link" href="{{ '/anti-cv/' | prepend: site.baseurl | prepend: site.url }}">anti-CV</a>.)
+
 ### Education
 
 **PhD**: Dual PhD in Integrative Biology & Ecology, Evolutionary Biology, and Behavior  
