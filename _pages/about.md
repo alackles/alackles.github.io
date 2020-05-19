@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Acacia</strong> Ackles
-description: PhD Student with [Emily Dolson][dolson] and [Elise Zipkin][zipkin] at Michigan State University | she/her, they/them
+description: PhD Student with Emily Dolson & Elise Zipkin at Michigan State University | she/her, they/them
 
 profile:
   align: right
