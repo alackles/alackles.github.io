@@ -45,6 +45,10 @@ One student in my first semester noted that I didn't "seem engaged" with the cla
 
 #### <a name="profdev">Professional Development</a>
 
+**Summer of Science Writing**: Workshop
+
+Planned & facilitated a workshop among my graduate student colleagues based on [Gopen & Swan (1990)][gopen_swan]. The workshop's goal was to apply principles of good scientific writing to our own writing. The workshop is ongoing!
+
 **Teaching College Science**: Professional Coursework
 
 Course taken as part of the Certificate in Teaching College Science and Mathematics at Michigan State University. Course experiences included development of syllabi and lesson plans using pedagogical techniques such as constructivism and transfer-based learning. 
@@ -61,3 +65,4 @@ Assisted lead instructor Dr. Tiffany-Rose Sikorski in developing course structur
 <!-- Links -->
 [pnas]: http://www.pnas.org/content/111/23/8410?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5ujlJ92ZQgC6PXO%2BbkuCcQ%3D%3D&utm_source=SwitchUp&utm_medium=Blog
 [chizhik]: https://link.springer.com/article/10.1023/A:1014405118351
+[gopen_swan]: https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing
