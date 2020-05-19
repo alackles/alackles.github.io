@@ -7,29 +7,30 @@ description:
 
 Due to the interdisciplinary nature of the work I do, I publish across a variety of fields with different norms, expectations, and conventions. For transparency, I am organizing my publications list with some additional notation to guide the reader. Inspiration for this format comes directly from my advisor [Emily Dolson][dolson]. 
 
-#### Publication Format
+**Publication Format**
 
-<i class="fas fa-pencil-alt"></i> Published in a peer-reviewed academic journal. Stay tuned for some of these to show up ;)
+<i class="fas fa-pencil-alt"></i> = Published in a peer-reviewed academic journal. Stay tuned for some of these to show up ;)
 
-<i class="fas fa-desktop"></i> Published in a conference proceedings. These are full papers submitted to conferences which undergo a peer review process. In computer science, it is common for results to reach their final destination in these proceedings.
+<i class="fas fa-desktop"></i> = Published in a conference proceedings. These are full papers submitted to conferences which undergo a peer review process. In computer science, it is common for results to reach their final destination in these proceedings.
 
-#### Other Icons
+**Other Icons**
 
-<i class="fas fa-image"></i> Link to poster or to slides of presentation
-
-<!--- <i class="fas fa-file"></i> Link to full-text pdf, where available -->
+<i class="fas fa-image"></i>: Link to poster or to slides of presentation
+<i class="fas fa-file"></i> Link to full-text pdf, where available
+<i class="fas fa-github"></i>: Link to corresponding github repo
 
 ## Peer-Reviewed Publications
 
-<i class="fas fa-desktop"></i> Bohm, Clifford, <b>Acacia L. Ackles</b>, Charles Ofria, & Arend Hintze (2019). On Sexual Selection in the Presence of Multiple Costly Displays. <em>Proceedings of the Artificial Life Conference 2019</em>. 
+<i class="fas fa-desktop"></i> Bohm, Clifford, <b>Acacia L. Ackles</b>, Charles Ofria, & Arend Hintze (2019). On Sexual Selection in the Presence of Multiple Costly Displays. <em>Proceedings of the Artificial Life Conference 2019</em>. <a href="https://www.mitpressjournals.org/doi/pdfplus/10.1162/isal_a_00170"><i class="fas fa-file"></i></a> <a href="https://github.com/cliff-bohm/ALIFE-2019-On-Sexual-Selection"><i class="fas fa-github"></i></a>
 
 ## Peer-Reviewed Extended Abstracts
 
 *These are 2-page, peer-reviewed summaries of research submitted to a conference, intended usually for publication elsewhere. They are held to a somewhat lower standard than full papers, but are still subject to peer review before acceptance to the conference.*
 
-**Ackles, Acacia L.**\*, Austin Ferguson, Connor Grady, & Charles Ofria (2020). Rank-based epistasis: A new metric for understanding epistatis in the absence of quantifiable fitness interactions. 2020 Conference on Artificial Life, July 13-18, Virtual. *In Review.*
+**Ackles, Acacia L.**\*, Austin Ferguson, Connor Grady, & Charles Ofria (2020). Rank-based epistasis: A new metric for understanding epistatis in the absence of quantifiable fitness interactions. 2020 Conference on Artificial Life, July 13-18, Virtual. *In Review.* <a href="https://github.com/alackles/cse845"><i class= "fas fa-github"></i></a> 
 
-**Ackles, Acacia L.***, Clifford Bohm, Vincent Ragusa, & Arend Hintze (2019). The Cascade Effect: Mutation fixation rates over evolutionary time. Poster at the 2019 Conference on Artificial Life, July 29-August 2, Newcastle, UK.  <a href="{{ '/assets/pdfs/alife2019.pdf/' | prepend: site.baseurl | prepend: site.url }}"><i class= "fas fa-image"></i></a> Link to poster or to slides of presentation
+
+**Ackles, Acacia L.***, Clifford Bohm, Vincent Ragusa, & Arend Hintze (2019). The Cascade Effect: Mutation fixation rates over evolutionary time. Poster at the 2019 Conference on Artificial Life, July 29-August 2, Newcastle, UK.  <a href="{{ '/assets/pdfs/alife2019.pdf/' | prepend: site.baseurl | prepend: site.url }}"><i class= "fas fa-image"></i></a> 
 
 ## Posters & Presentations
 
