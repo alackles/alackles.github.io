@@ -16,7 +16,7 @@ Michigan State University, East Lansing, MI
 Advisors: Emily Dolson & Elise Zipkin
 
 **Certificate in Teaching College Science & Mathematics**  
-**Spring 2019 -- current*  
+*Spring 2019 -- current*  
 Michigan State University, East Lansing, MI
 
 **BS**, with honors: Dual Degree in Biology & Applied Mathematics  
