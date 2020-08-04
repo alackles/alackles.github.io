@@ -29,7 +29,7 @@ Due to the interdisciplinary nature of the work I do, I publish across a variety
 
 *These are 2-page, peer-reviewed summaries of research submitted to a conference, intended usually for publication elsewhere. They are held to a somewhat lower standard than full papers, but are still subject to peer review before acceptance to the conference.*
 
-**Ackles, Acacia L.**, Austin Ferguson, Connor Grady, & Charles Ofria (2020). Rank-based epistasis: A new metric for understanding epistatis in the absence of quantifiable fitness interactions. 2020 Conference on Artificial Life, July 13-18, Virtual. <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/isal_a_00325"0><i class="fas fa-file"></i></a> <a href="https://github.com/alackles/cse845"><i class= "fab fa-github"></i></a> 
+**Ackles, Acacia L.**, Austin Ferguson, Connor Grady, & Charles Ofria (2020). Rank-based epistasis: A new metric for understanding epistatis in the absence of quantifiable fitness interactions. 2020 Conference on Artificial Life, July 13-18, Virtual. <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/isal_a_003250"><i class="fas fa-file"></i></a> <a href="https://github.com/alackles/cse845"><i class= "fab fa-github"></i></a> 
 
 
 **Ackles, Acacia L.**, Clifford Bohm, Vincent Ragusa, & Arend Hintze (2019). The Cascade Effect: Mutation fixation rates over evolutionary time. Poster at the 2019 Conference on Artificial Life, July 29-August 2, Newcastle, UK.  <a href="{{ '/assets/pdfs/alife2019.pdf' | prepend: site.baseurl | prepend: site.url }}"><i class= "fas fa-image"></i></a> 
