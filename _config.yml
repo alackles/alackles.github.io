@@ -29,8 +29,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Acacia Ackles
-blog_description: Academia!
+blog_name: inreach
+blog_description: Science outreach brings scientific understanding to the general population. Scientific inreach brings issues from the general population to the scientific community. This is a scicomm blog for scientists. 
 
 # Pagination
 paginate: 4
