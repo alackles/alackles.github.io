@@ -30,6 +30,8 @@ See <a class="page-link" href="{{ '/publications/' | prepend: site.baseurl | pre
 
 ### Grants & Fellowships
 
+**MSU Graduate Leadership Fellowship ($1,000)**, MSU Graduate School (2020-2021)
+
 **NSF Graduate Research Fellowship ($102,000)**, National Science Foundation (2018-2023)
 
 **BEACON Top-Up Fellowship ($20,000)**, BEACON Center for the Study fo Evolution in Action (2018-2023)
@@ -70,12 +72,35 @@ Assisted lead instructor Dr. Tiffany-Rose Sikorski in developing course structur
 *Title: How to Improve In-class Activities with Undergraduate Learning Assistants*  
 Co-organizer and I were the only undergraduate presenters at this faculty-centered workshop.
 
+### Mentorship 
+
+**BEACON Luminaries** (2020-current)
+Mentor for BEACON Luminaries, a program which pays undergraduate students at the BEACON Center to conduct independent research. Provided one-on-one mentorship to undergraduate student Sarah Albani on a project relating to evolution of associative learning. Sarah was first and presenting author on a presentation at BEACON Congress, the annual confernece on work completed at BEACON. Work still in progress.
+
+**WAVES (Workshop for Avida-ED Software Development** (2020)
+Mentor for WAVES, a ten-week summer paid internship to develop educational tools and software. Provided one-on-one mentorship for undergraduate student Maria Berry on a pedagogical case study surrounding participant experiences with stress and societal turmoil during a virtual internship project. 
+
+### Workshops
+
+**SciWri: A Science Writing Workshop** (2020)
+
+Led and organized an interactive science writing workshop at the 2020 BEACON Congress. Participants examined their own writing through the lens of "The Science of Scientific Writing" (Gopen & Swan, 1990) and worked together to apply the given writing techniques through editing and revision. Participants of all career stages (undergraduate, graduate, post-doc, and faculty) were in attendance. 
+
+**ALIFE 2020: Emerging Researchers in Artificial Life** (2020)
+Along with Alexander Lalejini, Austin Ferguson, and Daniel Junghans. Moderated and organized ALIFE 2020 workshop for Emerging Researchers in Artificial Life (ERA), the student and postdoc group for the International Society for Artificial Life. Workshop included lightning talks, roundtable discussion of equity issues in Artificial Life, and socializing.
+
 ### Service & Outreach
+
+**Graduate Leadership Fellow - College of Natural Science** (2020-2021)
+One of two Graduate Leadership Fellows for the College of Natural Science at Michigan State university. Attended meetings with administration to give graduate input. Completed yearlong project focused on improving the experience of graduate students in the university. My focus was on making graduate admissions more equitable and accessible.
+
+**EEB Graduate Group — Symposium Co-Chair** (2020-2021)
+Symposium co-chair for the Ecology, Evolutionary Biology, and Behavior Graduate Group (EGG). Along with co-organizer, recruited and organized EEB members to present their recent research in a virtual conference format.
 
 **LGBTQ+ Inclusivity in ALife — Breakout Discussion Group Leader** (2019)  
 Proposed and moderated a breakout session at the 2019 Conference on Artificial Life regarding inclusivity of LGBTQ+ individuals in the field. Topics included visibility in science, how to build community amongst queer artificial life researchers, and how to make future conferences more inclusive and accessible.
 
-**Emerging Researchers in Artifical Life — General Chair** (2019--current)  
+**Emerging Researchers in Artifical Life — General Chair** (2019-2020)  
 General chair for the International Society for Artificial Life student and postdocs group. Coordinated activities for the student group and facilitated student group work.
 
 **EEBB Graduate Group — Social Media Manager** (2019-2020)  
