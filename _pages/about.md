@@ -26,7 +26,7 @@ I'm broadly interested in the evolution of genomes and the complexity of the gen
  * [Zipkin Lab][zipkin]
  * [BEACON Center][beacon]
  * [MSU Department of Integrative Biology][ibio]
- * [MSU Ecology, Evolutionary Biology, and Behavior Program][eebb]
+ * [MSU Ecology, Evolutionary Biology, and Behavior Program][eeb]
 
 [dolson]: http://cse.msu.edu/~dolsonem/
 [zipkin]: https://ezipkin.github.io/
