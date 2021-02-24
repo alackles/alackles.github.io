@@ -1,8 +1,9 @@
 ---
 layout: about
-permalink: /
 title: <strong>Acacia</strong> Ackles
+permalink: /
 description: PhD Candidate with Emily Dolson & Elise Zipkin at Michigan State University | she/her they/them
+---
 
 profile:
   align: right
@@ -15,6 +16,7 @@ profile:
 
 news: false
 social: true
+selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 I'm a third year PhD candidate in [Integrative Biology][ibio] and [Ecology, Evolution, and Behavior][eeb] at MSU. My interests are at the intersection of evolutionary biology, computer science, and applied mathematics.  
