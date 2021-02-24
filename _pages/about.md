@@ -3,7 +3,6 @@ layout: about
 title: <strong>Acacia</strong> Ackles
 permalink: /
 description: PhD Candidate with Emily Dolson & Elise Zipkin at Michigan State University | she/her they/them
----
 
 profile:
   align: right
