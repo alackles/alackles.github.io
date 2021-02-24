@@ -2,14 +2,15 @@
 layout: page
 title: projects
 permalink: /projects/
+nav: true
 ---
 
 As I head into my third year of my PhD, my ideas about what I'm interested in are solidifying, but they're still very much in flux! Below are some of the directions I see my research heading (as well as a brief look back). 
 
 #### Jump To
-* [Genomic Complexity and Epistasis](#epistasis)
-* [Interdisciplinary Pedagogy](#ped)
-* [Past Projects](#past)
+- [<a name="epistasis">Genomic Complexity and Epistasis</a>](#genomic-complexity-and-epistasis)
+- [<a name="ped">Interdisciplinary Pedagogy</a>](#interdisciplinary-pedagogy)
+- [<a name="past">Past Projects</a>](#past-projects)
 
 ### <a name="epistasis">Genomic Complexity and Epistasis</a>
 

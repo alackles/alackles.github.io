@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv
+nav: true
 ---
 
 <a class="page-link" href="{{ '/assets/pdfs/cv.pdf' | prepend: site.baseurl | prepend: site.url }}">Open as a PDF</a>

@@ -2,6 +2,7 @@
 layout: page
 permalink: /anti-cv/
 title: anti-cv
+nav: false
 ---
 
 We only list on our CVs the accomplishments---grants that got funded, awards that we won. All the failures are swept under the rug. This leads to a terrible case of survivorship bias and can foster some serious imposter syndrome. So this is my anti-CV; all the money I didn't get and papers that didn't get accepted. Very much inspired by [Hiroki Sayama][sayama]'s twitter feed. 

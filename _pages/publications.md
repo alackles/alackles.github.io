@@ -2,7 +2,8 @@
 layout: page
 title: publications
 permalink: /publications/
-description:   
+description:  
+nav: true  
 ---
 
 Due to the interdisciplinary nature of the work I do, I publish across a variety of fields with different norms, expectations, and conventions. For transparency, I am organizing my publications list with some additional notation to guide the reader. Inspiration for this format comes directly from my advisor [Emily Dolson][dolson]. 
