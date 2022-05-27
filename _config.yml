@@ -9,25 +9,16 @@ email: alackles@protonmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:" 
         PHD Candidate at MSU.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. Based on <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧪 # the emoji used as the favicon
 url: https://alackles.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+baseurl: /site-draft/ # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-
-# -----------------------------------------------------------------------------
-# RSS Feed
-# -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -56,62 +47,9 @@ github_username: alackles # your GitHub user name
 twitter_username: alackles # your Twitter handle
 scholar_userid: alackles # your Google Scholar ID
 orcid_id: 0000-0002-8605-1233 # your ORCID ID
-linkedin_username: # your LinkedIn user name
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
 contact_note: > 
     I'm best reached via email.
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
-
-
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-blog_name: 
-blog_description: 
-permalink: /blog/:year/:title/
-
-# Pagination
-pagination:
-  enabled: true
-
-# Comments
-disqus_shortname: # put your disqus shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other exteranl sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-
-# -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
-
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-  projects-past:
-    output: true
-    permalink: /projects/:path/
-news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -171,54 +109,8 @@ defaults:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ['robots.txt']
   uglifier_args:
     harmony: true
-
-# -----------------------------------------------------------------------------
-# Jekyll Archives
-# -----------------------------------------------------------------------------
-
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
-
-scholar:
-
-  last_name: Ackles
-  first_name: Acacia
-  style: chicago-fullnote-bibliography
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
