@@ -1,9 +1,18 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
 ---
 
-Replace with new CV layout including publications
+# Acacia Ackles
+CV test
+
+## job
+
+test
+
+## education
+`2018-2022`
+__Michigan State University__
