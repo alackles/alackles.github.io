@@ -31,30 +31,6 @@ footer_fixed: true
 max_width: 1000px
 
 # -----------------------------------------------------------------------------
-# Layout
-# -----------------------------------------------------------------------------
-
-sass:
-  load_paths:
-    - _sass
-    - _css
-
-# -----------------------------------------------------------------------------
-# CV style
-# -----------------------------------------------------------------------------
-cv_style: davewhipp
-
-# TODO: add layout settings (single page vs. multi-page)
-
-# -----------------------------------------------------------------------------
-# Open Graph & Schema.org
-# -----------------------------------------------------------------------------
-# Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
-
-# -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: alackles # your GitHub user name
@@ -63,7 +39,6 @@ scholar_userid: alackles # your Google Scholar ID
 orcid_id: 0000-0002-8605-1233 # your ORCID ID
 contact_note: > 
     I'm best reached via email.
-
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
