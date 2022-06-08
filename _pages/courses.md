@@ -14,8 +14,7 @@ This is a directory of courses past, present, and future. As courses become acti
 
 <br/> <br/> 
 
-### Upcoming
-
+### Upcoming  
 <br/>
 
 #### Winter 2023
