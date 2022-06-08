@@ -12,6 +12,8 @@ This is a directory of courses past, present, and future. As courses become acti
 | **CMSC 140**  &emsp; | Introduction to Programming with Python &emsp; | MW 9:50 AM - 11:00 AM && R 10:25 AM - 12:10 PM BRIG 419
 | **CMSC 510**  &emsp; | Data Structures & Algorithm Analysis  &emsp;  | MWF 1:50 PM - 3:00 PM BRIG 419
 
+<br/> <br/> <br/>
+
 ### Upcoming
 
 #### Winter 2023
