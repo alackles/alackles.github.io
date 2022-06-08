@@ -10,5 +10,5 @@ This is a directory of courses past, present, and future. As courses become acti
 
 ## Fall 2022
 
-CMSC 140 | Introduction to Programming with Python 
-CMSC 510 | Data Structures & Algorithm Analysis
+| CMSC 140 | Introduction to Programming with Python |
+| CMSC 510 | Data Structures & Algorithm Analysis    |
