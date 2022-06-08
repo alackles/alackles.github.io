@@ -56,22 +56,8 @@ github_username: alackles # your GitHub user name
 twitter_username: alackles # your Twitter handle
 scholar_userid: alackles # your Google Scholar ID
 orcid_id: 0000-0002-8605-1233 # your ORCID ID
-linkedin_username: # your LinkedIn user name
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
 contact_note: > 
     I'm best reached via email.
-
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 # -----------------------------------------------------------------------------
 # Collections
