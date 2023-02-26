@@ -10,8 +10,8 @@ author_name:        "Acacia Ackles" # change this to your name
 logo_url:           https://avatars.githubusercontent.com/u/25805624?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https:/alackles.github.io # main url
-baseurl:            /academic-site
+url:                 # main url
+baseurl:            /site-draft
 permalink:          /:title # Post permalink
 timezone:           America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
