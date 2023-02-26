@@ -32,6 +32,12 @@
 		{% endif %}
 	</ul>
 	<ul class="bottom-menu">
+		{% if page.url != '/study' %}
+			{% assign link = '/study' %}
+			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Study </a> </li>
+		{% else %}
+			<li style="font-weight:bold;"> <a> Study </a> </li>
+		{% endif %}
 		<!---
 		{% if page.url != '/etc' %}
 			{% assign link = '/etc %}
