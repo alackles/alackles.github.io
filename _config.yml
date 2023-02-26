@@ -56,19 +56,9 @@ defaults:
       layout:       "page"
   -
     scope:
-      type:         "posts"
-    values:
-      layout:       "post"
-  -
-    scope:
       type:         "research"
     values:
       layout:       "research-post"
-  -
-    scope:
-      type:         "projects"
-    values:
-      layout:       "post"
   -
     scope:
       type:         "classes"

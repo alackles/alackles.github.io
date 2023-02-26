@@ -55,6 +55,10 @@ h6 {
 }
 img {
   max-width: 100%;
+  height: 300px;
+  overflow: hidden;
+  object-fit: cover;
+  object-position: 25% 25%;
 }
 a {
   color: inherit;
