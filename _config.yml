@@ -4,8 +4,8 @@ plugins:
 remote_theme: heiswayi/the-plain
 
 # Site Info
-title:              "The Plain Academic"
-description:        "My academic site"
+title:              "Acacia Ackles"
+description:        "academic website"
 author_name:        "Acacia Ackles" # change this to your name
 logo_url:           https://avatars.githubusercontent.com/u/25805624?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
