@@ -24,22 +24,16 @@
 			{% assign link = '/classes' %}
 			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Classes </a> </li>
 		{% else %}
-			<li style="font-weight:bold;"> <a> Research </a> </li>
+			<li style="font-weight:bold;"> <a> Classes </a> </li>
 		{% endif %}
 		{% if page.url != '/research' %}
 			{% assign link = '/research' %}
 			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Research </a> </li>
 		{% else %}
-			<li style="font-weight:bold;"> <a> Projects </a> </li>
+			<li style="font-weight:bold;"> <a> Research </a> </li>
 		{% endif %}
 	</ul>
 	<ul class="bottom-menu">
-		{% if page.url != '/seniors' %}
-			{% assign link = '/seniors' %}
-			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Senior-Experience </a> </li>
-		{% else %}
-			<li style="font-weight:bold;"> <a> Senior-Experience </a> </li>
-		{% endif %}
 		{% if page.url != '/etc' %}
 			{% assign link = '/etc %}
 			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Etc </a> </li>
