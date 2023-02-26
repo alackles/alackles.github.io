@@ -11,22 +11,22 @@ title: Classes
 
 	<div class="divider"></div>
 
-	{% assign sorted = (site.classes | sort: date) | reverse %}
+	{% assign sorted = (site.classes | sort: term) | reverse %}
 	{% for post in sorted %}
 		{% unless post.next %}
-			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
+			<h3 class="code">{{ post.acayear}}</h3>
 		{% else %}
-			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-			{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+			{% capture year %}{{ post.acayear}}{% endcapture %}
+			{% capture nyear %}{{ post.next.acayear}}{% endcapture %}
 			{% if year != nyear %}
-				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
+				<h3 class="code">{{ post.acayear}}</h3>
 			{% endif %}
 		{% endunless %}
 
 		<ul>
 			<li>
 				<div class="post-date code">
-					<span>{{ post.date | date: "%b %d" }}</span>
+					<span>{{ post.title }}</span>
 				</div>
 				<div class="title">
 					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">

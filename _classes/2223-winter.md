@@ -1,7 +1,8 @@
 ---
 title: Winter 2023
 type: classes
-date: 2023-01-03
+acayear: 2022-2023
+term: 2202 
 imageurl: /site-draft/assets/img/winter.jpg
 authors: Acacia Ackles
 ---
