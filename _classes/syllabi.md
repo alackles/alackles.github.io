@@ -2,7 +2,7 @@
 title: Syllabi
 type: classes
 date: 2023-01-01
-imageurl: /site-draft/assets/img/winter.jpg
+imageurl: /site-draft/assets/img/paper.jpg
 authors: Acacia Ackles
 ---
 
