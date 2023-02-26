@@ -4,6 +4,7 @@ type: classes
 acayear: 2022-2023
 term: 2202 
 imageurl: /site-draft/assets/img/winter.jpg
+alt: winter landscape
 authors: Acacia Ackles
 ---
 
