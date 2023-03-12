@@ -1,5 +1,3 @@
-# site-draft
+# Acacia Ackles
 
-Draft of a new professional website.
-
-Based on the plain academic. 
+Professional website
