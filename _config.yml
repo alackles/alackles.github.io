@@ -11,7 +11,7 @@ logo_url:           https://avatars.githubusercontent.com/u/25805624?v=4 # Get i
 
 # Site Settings
 url:                # main url
-baseurl:            /site-draft
+baseurl:            # base url
 permalink:          /:title # Post permalink
 timezone:           America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
