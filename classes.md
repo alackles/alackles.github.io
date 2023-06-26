@@ -11,10 +11,10 @@ _None._
 
 ## On Deck: Fall 2023
 
-| **Course** | Title  | | Syllabus | | Schedule|
-| ---------- | -----  |
-| **CMSC 150** &emsp; | Introduction to Computer Science (Java) | &emsp; | | |
-| **CMSC 510** &emsp; | Data Structures & Algorithm Analysis | &emsp; | | | 
+| **Course** | Title  | Syllabus | Schedule|
+| ---------- | -----  | ------ | ------ |
+| **CMSC 150** &emsp; | Introduction to Computer Science (Java) | | |
+| **CMSC 510** &emsp; | Data Structures & Algorithm Analysis | | 
 
 <hr>
 
@@ -22,22 +22,22 @@ _None._
 
 ### Spring 2023
 
-| **Course** | Title  | | Syllabus | | Schedule|
-| ---------- | -----  |
-| **CMSC 270** &emsp; | Data Structures |  &emsp; | [Syllabus](/CMSC-270-ST-23/syllabus) | | [Schedule](/CMSC-270-ST-23/schedule)
-| **CMSC 500** &emsp; | Topics: Artificial Life | &emsp; | [Syllabus](/CMSC-500-ST-23/syllabus) | | [Schedule](/CMSC-500-ST-23/schedule)
+| **Course** | Title  | Syllabus | Schedule|
+| ---------- | -----  | ------ | ------- |
+| **CMSC 270** &emsp; | Data Structures |  [Syllabus](/CMSC-270-ST-23/syllabus) | [Schedule](/CMSC-270-ST-23/schedule)
+| **CMSC 500** &emsp; | Topics: Artificial Life | [Syllabus](/CMSC-500-ST-23/syllabus) | [Schedule](/CMSC-500-ST-23/schedule)
 
 ### Winter 2023
 
-| **Course** | Title | | Syllabus | | Schedule |
-| ---------- | ---------  |-------- | ---------| ----- | -----| 
-| **CMSC 140** &emsp; | Introduction to Programming with Python | &emsp; | [Syllabus](/CMSC-140-WT-23/syllabus) | | [Schedule](/CMSC-140-WT-23/schedule)
-| **CMSC 150** &emsp; | Introduction to Computer Science (Java) | &emsp; | [Syllabus](/CMSC-150-WT-23/syllabus) | | [Schedule](/CMSC-140-WT-23/schedule)
-| **CMSC 590** &emsp; | Advanced Topics in Python | &emsp; | | | 
+| **Course** | Title | Syllabus | Schedule |
+| ---------- | ---------  |-------- | ---------|
+| **CMSC 140** &emsp; | Introduction to Programming with Python | [Syllabus](/CMSC-140-WT-23/syllabus) | [Schedule](/CMSC-140-WT-23/schedule)
+| **CMSC 150** &emsp; | Introduction to Computer Science (Java) | [Syllabus](/CMSC-150-WT-23/syllabus) | [Schedule](/CMSC-140-WT-23/schedule)
+| **CMSC 590** &emsp; | Advanced Topics in Python | | | 
 
 ### Fall 2022
 
-| **Course** | Title | | Syllabus | | Schedule |
-| ---------- | ---------  |-------- | ---------| ----- | -----| 
-| **CMSC 140** &emsp; | Introduction to Programming with Python | &emsp; | [Syllabus](/CMSC-140-FS-22/syllabus) | | [Schedule](/CMSC-140-FS-22/schedule) |
-| **CMSC 510** &emsp; | Data Structures & Algorithm Analysis | &emsp; | _co-taught_ | | 
+| **Course** | Title | Syllabus | Schedule |
+| ---------- | ---------  |-------- | ---------| 
+| **CMSC 140** &emsp; | Introduction to Programming with Python | [Syllabus](/CMSC-140-FS-22/syllabus) | [Schedule](/CMSC-140-FS-22/schedule) |
+| **CMSC 510** &emsp; | Data Structures & Algorithm Analysis | | |
