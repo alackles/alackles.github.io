@@ -86,11 +86,13 @@ Here is a list of current topics you might work on with me. If you have research
 - Developing new models and representations of genomes in computational settings
 - Data visualization and data interaction with Virtual Reality software & hardware
 - Simulations of evolutionary phenomena using computational tools
+- Investigating the role of "play" and "joy" as key elements to evolutionary strategies
 - Ethical and pedagogical frameworks for thinking about mathematical modeling
+- Documentation as a gendered task
 
 ## Rate of Pay
 
-Lawrence's current rate of pay for summer students is $11.00/hr up to 40 hours per week, plus free on-campus housing. This works out to roughly $750 every other week after taxes. If financial concerns are a barrier to you doing summer research, please let me know. 
+Lawrence's current rate of pay for summer students is $11.00/hr up to 40 hours per week, plus free on-campus housing for 10 weeks. This works out to roughly $750 every other week after taxes. If financial concerns are a barrier to you doing summer research, please let me know. 
 
 ## FAQ
 
@@ -99,6 +101,8 @@ Lawrence's current rate of pay for summer students is $11.00/hr up to 40 hours p
 Undergraduate research is a great way to find out if you enjoy a topic -- or if you don't enjoy it. My undergraduate research helped me find out I did not like biology benchwork, but that I loved working with and manipulating data computationally. I would not have found out either of these things in a classroom setting, but they have now shaped my entire career after college.
 
 Undergraduate research also allows you to think more deeply about a topic, instead of broadly. Lawrence does a wonderful job of preparing you to synthesize and think across multiple fields of study, but engaging in research allows you to really dig in to learning about an area on a high level.
+
+If you are interested in graduate school, you should definitely try undergraduate research. For one, it is good to find out if you like it. For another, more and more graduate admissions committees are expecting some research experience. I don't think they _should_, but if you have the opportunity to do undergrad research, it can only benefit you to do so.
 
 ### What Makes a Good Undergraduate Research Assistant?
 
