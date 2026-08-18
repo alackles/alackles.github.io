@@ -10,7 +10,7 @@ I'm interested in a wide variety of research topics, all primarily related to **
 My current research interests are:
 
 - Analysis of cognitive and relational capacity in AI systems...
-    - and how those capacities are used as attack vectors for exploitation (of systems and of people) [jump to](#control)
+    - and how those capacities are used as attack vectors for exploitation (of systems and of people) [[jump to →](#control)]
     - and how to create novel capacities with novel architectures
 - Role of AI interfaces and infrastructures in...
     - supporting student learning in the classroom 
@@ -33,7 +33,7 @@ My current active research projects are:
     <img src="{{ '/assets/posters/alife2026-preview.jpg' | relative_url }}"
          alt="Conference poster for &quot;The Override is the Product: Sexualized Coercive Control and AI Jailbreaking&quot;"
          width="1100" height="1467" loading="lazy"
-         style="display: block; width: 100%; max-width: 550px; height: auto; margin: 0 auto; border: 1px solid #ddd;">
+         style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto; border: 1px solid #ddd;">
   </a>
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em;">
     ALife 2026 poster — click to open at full size.

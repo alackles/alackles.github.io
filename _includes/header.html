@@ -18,7 +18,7 @@
 		{% else %}
 			<li style="font-weight:bold;"> <a> About </a> </li>
 		{% endif %}
-		{% if page.url != '/classes  %}
+		{% if page.url != '/classes' %}
 			{% assign link = '/classes' %}
 			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Classes </a> </li>
 		{% else %}
@@ -40,7 +40,7 @@
 		{% endif %}
 		<!---
 		{% if page.url != '/etc' %}
-			{% assign link = '/etc %}
+			{% assign link = '/etc' %}
 			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Etc </a> </li>
 		{% else %}
 			<li style="font-weight:bold;"> <a> etc </a> </li>

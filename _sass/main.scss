@@ -91,6 +91,7 @@ blockquote {
 
 .menu {
   width: 100%;
+  max-width: $content-width;
   position: relative;
   margin: 0px auto 35px;
   text-align: center;
@@ -107,10 +108,19 @@ blockquote {
     display: flex;
     justify-content: center;
   }
+  // Spread the links evenly across the content width. The flex ratios track
+  // how many links are in each list, so both lists get proportional space --
+  // update these if you add or remove a menu item.
+  .top-menu {
+    flex: 3; // About, Classes, Research
+  }
+  .bottom-menu {
+    flex: 2; // Study, Contact
+  }
   ul {
     list-style-type: none;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     margin: 0;
     padding: 0pt;
     li a {
