@@ -3,41 +3,42 @@ layout: page
 title: Classes
 ---
 
-This is a directory of courses. As courses become active, they will link to a course site where you can find the syllabus and course schedule for each.  
+A list of courses I've taught. Courses I teach frequently (~each year) are starred; courses offered on rotation are noted. 
 
-## Current: Summer 2023
+## Non-Majors/Non-CMSC
 
-_None._
+- FRST 110: First-Year Studies
+- CMSC 140*: Introduction to Programming with Python
 
-## On Deck: Fall 2023
+## Core Courses
 
-| **Course** | Title  | Syllabus | Schedule|
-| ---------- | -----  | ------ | ------ |
-| **CMSC 150** &emsp; | Introduction to Computer Science (Java) | | |
-| **CMSC 510** &emsp; | Data Structures & Algorithm Analysis | | 
+- CMSC 150*: Introduction to Computer Science
+- CMSC 250: Intermediate Programming
+- CMSC 270: Introduction to Data Structures
+- CMSC 510: Data Structures & Algorithm Analysis
+- CMSC 698*: Senior Projects
+- CMCS 600*: Senior Experience
 
-<hr>
+## CMSC Electives
 
-## Past Courses <br>
+- CMSC 415: Ethics in Modern Computing [odd years, fall]
+- CMSC 500: Topics: Artificial Life
+- CMSC 515: Theory of Computation [even years, spring]
+- CMSC 590: Advanced Topics in Python
 
-### Spring 2023
+## Independent Studies
 
-| **Course** | Title  | Syllabus | Schedule|
-| ---------- | -----  | ------ | ------- |
-| **CMSC 270** &emsp; | Data Structures |  [Syllabus](/CMSC-270-ST-23/syllabus) | [Schedule](/CMSC-270-ST-23/schedule)
-| **CMSC 500** &emsp; | Topics: Artificial Life | [Syllabus](/CMSC-500-ST-23/syllabus) | [Schedule](/CMSC-500-ST-23/schedule)
+_A list of titles of independent studies, directed studies, senior experience projects (under the old 1-on-1 model), and tutorials I've supervised, roughly organized by topic. If you are a Lawrence student interested in engaging in an IS/DS/TU with me, please see [study](/study)._
 
-### Winter 2023
-
-| **Course** | Title | Syllabus | Schedule |
-| ---------- | ---------  |-------- | ---------|
-| **CMSC 140** &emsp; | Introduction to Programming with Python | [Syllabus](/CMSC-140-WT-23/syllabus) | [Schedule](/CMSC-140-WT-23/schedule)
-| **CMSC 150** &emsp; | Introduction to Computer Science (Java) | [Syllabus](/CMSC-150-WT-23/syllabus) | [Schedule](/CMSC-140-WT-23/schedule)
-| **CMSC 590** &emsp; | Advanced Topics in Python | | | 
-
-### Fall 2022
-
-| **Course** | Title | Syllabus | Schedule |
-| ---------- | ---------  |-------- | ---------| 
-| **CMSC 140** &emsp; | Introduction to Programming with Python | [Syllabus](/CMSC-140-FS-22/syllabus) | [Schedule](/CMSC-140-FS-22/schedule) |
-| **CMSC 510** &emsp; | Data Structures & Algorithm Analysis | | |
+- Computational Neuroevolution
+- Bioniformatics Research Assistant
+- Global CS Education
+- CS Curricular Design
+- Cybersecurity
+- Reinforcement Learning Journal Club
+- Solar Panel Tracker Design
+- Counterpoint using Pytorch
+- Web Development in Python
+- Python App Development
+- Social Media App Development 
+- Sports Database App Development
