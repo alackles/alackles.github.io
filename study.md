@@ -36,7 +36,7 @@ To request an IS/DS/Tutorial, you will need to know the answer to the following 
 
 **Description:** Directed study follows a syllabus set by the instructor and may be used to deliver content from an existing course (whether because there are too few students enrolled or because the course is not currently being offered), to develop a possible new course offering, or to direct a student in a defined course of study. The main goal is knowledge or skill acquisition, not research or creative work. Students may meet frequently with the instructor or work more independently, completing assignments according to a schedule agreed upon in advance. 
 
-**You want a Directed Study if...** there is a _standard course_ at Lawerence or another university that you _need to take_, but it is not offered regularly or has not been offered in recent years. 
+**You want a Directed Study if...** there is a _standard course_ at Lawrence or another university that you _need to take_, but it is not offered regularly or has not been offered in recent years. 
 
 **The primary goal is...** supplementing your standard education.
 
@@ -81,8 +81,7 @@ I typically do not have the availability to take on new research students during
 
 ## Current Research Topics
 
-Here is a list of current topics you might work on with me. If you have research interests outside these topics, I am open to discussion on them!
-
+See [research](/research) for current research topics. If you're interested in topics outside those topics, still contact me, especially if you like to self-direct your work and just want a guiding hand.
 
 ## Rate of Pay
 
