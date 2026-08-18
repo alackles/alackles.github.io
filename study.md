@@ -83,12 +83,6 @@ I typically do not have the availability to take on new research students during
 
 Here is a list of current topics you might work on with me. If you have research interests outside these topics, I am open to discussion on them!
 
-- Developing new models and representations of genomes in computational settings
-- Data visualization and data interaction with Virtual Reality software & hardware
-- Simulations of evolutionary phenomena using computational tools
-- Investigating the role of "play" and "joy" as key elements to evolutionary strategies
-- Ethical and pedagogical frameworks for thinking about mathematical modeling
-- Documentation as a gendered task
 
 ## Rate of Pay
 
