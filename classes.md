@@ -31,7 +31,7 @@ A list of courses I've taught. Courses I teach frequently (~each year) are starr
 _A list of titles of independent studies, directed studies, senior experience projects (under the old 1-on-1 model), and tutorials I've supervised, roughly organized by topic. If you are a Lawrence student interested in engaging in an IS/DS/TU with me, please see [study](/study)._
 
 - Computational Neuroevolution
-- Bioniformatics Research Assistant
+- Bioinformatics Research Assistant
 - Global CS Education
 - CS Curricular Design
 - Cybersecurity
